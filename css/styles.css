@@ -142,8 +142,12 @@ a {
 }
 
 /*section 2*/
+.our-benefits-section {
+    padding: 120px 0;
+}
+
 .our-benefits-title {
-    color: #FFFFFF
+   visibility: hidden;
 }
 .our-portfolio-title,
 .our-team-title {
@@ -178,12 +182,15 @@ a {
     width: calc((100%-72px) / 4);
     padding-left: 156px;
 }
+
 /*Section 3*/
+
 .our-team-section {
     background-color: #F4F4FD;
     line-height: 24px;
     letter-spacing: 0.4px;
     height: 732px;
+    padding: 120px 0;
 }
 .our-team-list-items {
     background-color: #FFFFFF;

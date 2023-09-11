@@ -101,13 +101,12 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap: 40px;
 }
 .header-nav-list {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 24px;
+    gap: 40px;
 }
 .header-address {
     display: flex;
